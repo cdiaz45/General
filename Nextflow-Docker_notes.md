@@ -17,7 +17,7 @@ You will get denied when you run this
 docker ps -a
 ```
 
-So add user to the docker group
+So add user to the docker group using the command exactly as it shows here. No need to look for your user ID
 ```
 sudo usermod -aG docker ${USER}
 ```
