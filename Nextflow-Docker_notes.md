@@ -1,6 +1,6 @@
-# Working with docker - ubuntu
+# Setting the permissions for docker - ubuntu
 
-You need Docker to be working to work your way through the nextflow training exercises. So a few notes beloew regarding accessibility
+You need Docker to work your way through the nextflow training exercises. So a few notes beloew regarding accessibility
 
 ## How to deal with Docker permission denied when trying to connect to the Docker daemon socket
 
